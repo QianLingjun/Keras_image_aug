@@ -1,7 +1,7 @@
 # Keras_image_aug
 Keras_image_aug，图像分割部分的图像批增强案例
 
-如下内容和我在CSDN上内容一致，还是不太习惯使用github，可自行去这里：https://mp.csdn.net/postedit/88616126
+如下内容和我在CSDN上内容一致，还是不太习惯使用github，可自行去这里：https://blog.csdn.net/wsLJQian/article/details/88616126
 
 此处给出了几个代表图片，方便测试使用，究竟怎么用，还是去上面链接看吧，会比较详细。
 
