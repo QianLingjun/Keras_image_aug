@@ -1,6 +1,8 @@
 # Keras_image_aug
 Keras_image_aug，图像分割部分的图像批增强案例
 
+如下内容参考：https://mp.csdn.net/postedit/88616126
+
 目录
 
 一.大杀气之keras ImageDataGenerator
